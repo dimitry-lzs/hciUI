@@ -92,7 +92,7 @@ function App(): JSX.Element {
                     </Section>
                     <LearnMoreLinks />
                     <Button title="Test Button" onPress={() => console.log('test')} />
-                    <View style={{ height: 100, width: 100, backgroundColor: 'red' }} />
+                    <View style={{ height: 100, width: 100, backgroundColor: 'green' }} />
                 </View>
             </ScrollView>
         </SafeAreaView>
